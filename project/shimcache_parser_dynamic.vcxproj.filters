@@ -69,8 +69,8 @@
     <ClInclude Include="..\include\WinNtShimParser.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\src\ShimCacheParser.h">
-      <Filter>Source Files</Filter>
+    <ClInclude Include="..\include\ShimCacheParser.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
